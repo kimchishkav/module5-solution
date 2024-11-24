@@ -1,0 +1,13 @@
+.tile {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.tile:hover {
+    background-color: #e9ecef;
+}
